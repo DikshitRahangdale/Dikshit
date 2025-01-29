@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dikshit!
 
-I'm a **Software Tester** passionate about delivering quality software. I have a solid foundation in programming, manual testing, and agile methodologies. I'm eager to grow and make impactful contributions to the tech industry.
+I'm a **Software Tester** passionate about delivering quality software. I have a solid foundation in programming, Automation Testing, manual testing, and agile methodologies. I'm eager to grow and make impactful contributions to the tech industry.
 
 ---
 
